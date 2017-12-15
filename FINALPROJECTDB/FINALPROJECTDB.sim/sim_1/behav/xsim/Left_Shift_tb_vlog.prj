@@ -1,0 +1,10 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../../Left_Shift/Left_Shift.srcs/sources_1/new/Left_Shift.v" \
+"../../../../../Left_Shift/Left_Shift.srcs/sim_1/new/Left_Shift_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

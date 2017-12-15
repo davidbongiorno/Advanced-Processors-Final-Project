@@ -1,0 +1,26 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Dave/Advanced_Processors_Final_Project/ALU/ALU.srcs/sources_1/new/ALU.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Dave/Advanced_Processors_Final_Project/ALU/ALU.srcs/sources_1/new/ALUController.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALUController
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Dave/Advanced_Processors_Final_Project/Controller/Controller.srcs/sources_1/new/Controller.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Controller
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Dave/Advanced_Processors_Final_Project/Data_Memory/Data_Memory.srcs/sources_1/new/Data_Mem.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Data_Mem
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Dave/Advanced_Processors_Final_Project/Instruction Memory/Instruction Memory.srcs/sources_1/new/InstructionMem.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module InstructionMem
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Dave/Advanced_Processors_Final_Project/Left_Shift/Left_Shift.srcs/sources_1/new/Left_Shift.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Left_Shift
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Dave/Advanced_Processors_Final_Project/Register FIles/Register FIles.srcs/sources_1/new/Register_FIle.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Register_File
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Dave/Advanced_Processors_Final_Project/SignExtension/SignExtension.srcs/sources_1/new/Sign_Extension.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Sign_Extension
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Dave/Advanced_Processors_Final_Project/AP_FINAL_DB/AP_FINAL_DB.srcs/sources_1/new/TOP_DATAPATH.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module TOP_DATAPATH
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Dave/Advanced_Processors_Final_Project/26-28_Bit_Shifter/26-28_Bit_Shifter.srcs/sources_1/new/TwentySix_TwentyEight_Shifter.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module TwentySix_TwentyEight_Shifter
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Dave/Advanced_Processors_Final_Project/2-1 Mux/2-1 Mux.srcs/sources_1/new/Two_One_MUX.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Two_One_MUX
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Dave/Advanced_Processors_Final_Project/Program Counter/Program Counter.srcs/sources_1/new/prog_count.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module prog_count
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Dave/Advanced_Processors_Final_Project/AP_FINAL_DB/AP_FINAL_DB.srcs/sim_1/new/TOP_DATAPATH_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module TOP_DATAPATH_tb
